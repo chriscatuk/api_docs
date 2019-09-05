@@ -31,4 +31,4 @@ git clone git@github.com:Mermade/shins.git
   node shins.js --minify --output ../api_docs/index.html
   ```
 
-You can public `./api_docs` directory.
+You can publish `./api_docs` directory.
